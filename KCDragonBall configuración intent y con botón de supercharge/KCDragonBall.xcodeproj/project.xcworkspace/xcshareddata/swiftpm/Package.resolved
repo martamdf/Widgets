@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "kcwidgetslibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/martamdf/KCWidgetsLibrary",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2e9223db7421acb46ed7525dfb619434db68be24"
+      }
+    }
+  ],
+  "version" : 2
+}
