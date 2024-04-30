@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD19AE8D-3312-4C7D-B110-8E93B2AB0695"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50741A5F-E66A-4A0F-B5C4-FE3EA52576BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallWidget/DragonBallWidget.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getTimeline(for:in:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBB00818-DAD5-400D-89D7-991B131A66AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallWidget/DragonBallWidget.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getTimeline(for:in:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BFCCAC3-C049-46EB-9274-035D23D2EADB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KCDragonBall/HeroActivityUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "startActivity(name:image:hp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BFCCAC3-C049-46EB-9274-035D23D2EADB - 4c7c4843bab67a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static KCDragonBall.HeroActivityUseCase.startActivity(name: Swift.String, image: Swift.String, hp: Swift.Int) throws -&gt; Swift.String"
+                  moduleName = "KCDragonBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martamaquedano/Projects/PruebaLibreria/MasterclassWidgets/KCDragonBall/KCDragonBall/HeroActivityUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "5BFCCAC3-C049-46EB-9274-035D23D2EADB - 4c7c4843bab67a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static KCDragonBall.HeroActivityUseCase.startActivity(name: Swift.String, image: Swift.String, hp: Swift.Int) throws -&gt; Swift.String"
+                  moduleName = "KCDragonBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martamaquedano/Projects/PruebaLibreria/MasterclassWidgets/KCDragonBall/KCDragonBall/HeroActivityUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "5BFCCAC3-C049-46EB-9274-035D23D2EADB - 4c7c4843bab67a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static KCDragonBall.HeroActivityUseCase.startActivity(name: Swift.String, image: Swift.String, hp: Swift.Int) throws -&gt; Swift.String"
+                  moduleName = "KCDragonBall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/martamaquedano/Projects/PruebaLibreria/MasterclassWidgets/KCDragonBall/KCDragonBall/HeroActivityUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
